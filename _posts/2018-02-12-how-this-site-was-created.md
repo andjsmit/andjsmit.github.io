@@ -15,3 +15,6 @@ last week.
 
 To help in using markdown to create blog posts, I printed off a copy the GitHub Flavored Markdown 
 [cheatsheet](https://guides.github.com/features/mastering-markdown/).
+
+Tagging is going to be an important feature, so after a quick google, looks like a next step
+shoudl be following [this tutorial](http://longqian.me/2017/02/09/github-jekyll-tag/) or the like.
